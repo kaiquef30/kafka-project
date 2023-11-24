@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequiredArgsConstructor
 @RestController
 @RequestMapping("/payment")
-public class PaymentResourceIpml implements PaymentResource {
+public class PaymentResourceImpl implements PaymentResource {
 
     private final PaymentService paymentService;
 

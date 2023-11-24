@@ -11,5 +11,4 @@ public interface PaymentResource {
     @PostMapping
     ResponseEntity<Payment> payment(@RequestBody Payment payment);
 
-
 }
