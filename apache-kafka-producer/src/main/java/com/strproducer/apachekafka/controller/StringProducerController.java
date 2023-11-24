@@ -19,4 +19,5 @@ public class StringProducerController {
         producerService.sendMessage(message);
         return ResponseEntity.status(HttpStatus.CREATED).build();
     }
+
 }
