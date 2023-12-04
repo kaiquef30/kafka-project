@@ -1,3 +1,3 @@
 # kafka-project
 
-Projeto para praticar meus conhecimentos.
+Projeto para colocar conhecimentos em prática
